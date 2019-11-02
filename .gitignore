@@ -24,3 +24,5 @@ coverage
 build/
 dist/
 
+# Dummy Data
+fakeCSV
